@@ -1,0 +1,14 @@
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\bin\Debug\netcoreapp2.2\final authorization and authorization.deps.json
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\bin\Debug\netcoreapp2.2\final authorization and authorization.runtimeconfig.json
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\bin\Debug\netcoreapp2.2\final authorization and authorization.runtimeconfig.dev.json
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\bin\Debug\netcoreapp2.2\final authorization and authorization.dll
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\obj\Debug\netcoreapp2.2\final authorization and authorization.csprojAssemblyReference.cache
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\obj\Debug\netcoreapp2.2\final authorization and authorization.csproj.CoreCompileInputs.cache
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\obj\Debug\netcoreapp2.2\final authorization and authorization.RazorAssemblyInfo.cache
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\obj\Debug\netcoreapp2.2\final authorization and authorization.RazorAssemblyInfo.cs
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\obj\Debug\netcoreapp2.2\final authorization and authorization.AssemblyInfoInputs.cache
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\obj\Debug\netcoreapp2.2\final authorization and authorization.AssemblyInfo.cs
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\obj\Debug\netcoreapp2.2\final authorization and authorization.RazorTargetAssemblyInfo.cache
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\bin\Debug\netcoreapp2.2\final authorization and authorization.pdb
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\obj\Debug\netcoreapp2.2\final authorization and authorization.dll
+C:\Users\langhnvi\Documents\dotnet\final authorization and authorization\final authorization and authorization\obj\Debug\netcoreapp2.2\final authorization and authorization.pdb
